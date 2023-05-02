@@ -1,3 +1,0 @@
-deze code beheert bankrekeningen en transacties en  Deze code houdt drie arrays bij: rekeningNummers, rekeningNamen en rekeningBalansen. rekeningNummers bevat de rekeningnummers, rekeningNamen bevat de namen van de rekeninghouders en rekeningBalansen bevat de saldi van de rekeningen.
-
-Deze data kan verbeterd worden door gebruik te maken van een klasse Rekening, die alle gegevens over de rekening bevat. Dit zou het gemakkelijker maken om de rekeninggegevens te beheren en de code leesbaarder maken.
